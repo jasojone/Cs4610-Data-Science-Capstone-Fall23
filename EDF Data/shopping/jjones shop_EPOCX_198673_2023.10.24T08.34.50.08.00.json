@@ -1,0 +1,24 @@
+{
+    "Markers": [
+    ],
+    "connectionType": "dongle",
+    "demographics": {
+        "birthday": "1900-01-01",
+        "countryOfInfluence": {
+            "iso": "",
+            "printable": ""
+        },
+        "countryOfResidence": {
+            "iso": "",
+            "printable": ""
+        },
+        "gender": "U"
+    },
+    "exportApp": "com.emotiv.emotivpro",
+    "exportTime": "2023-12-04T13:21:27.144-08:00",
+    "headsetType": "EPOCX",
+    "mappings": null,
+    "montageType": "UNKNOWN",
+    "recordId": "acd237e7-7d2a-4707-8572-713e97003f50",
+    "user": "mihusain"
+}
